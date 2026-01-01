@@ -1,9 +1,9 @@
 <p align="center">
   <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
 </p>
-n
+
 <p align="center">
-  <b>Nama Kamu, 20 years old and self-taught Fullstack Developer with 7 years learning experience & 2 year professional experience.</b>
+  <b>Ahmad Azizie Adnan, Only developers who only focus on WhatsApp or Teleram bot scripts</b>
 </p>
 
 ---
