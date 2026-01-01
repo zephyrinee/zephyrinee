@@ -23,25 +23,14 @@
   <b>👤 About Me</b>
 </p>
 
-<p align="left">
-  I am an <b>Automation Bot Developer</b> with a strong focus on building, maintaining,
-  and automating <b>WhatsApp and Telegram bots</b>.
-</p>
-
-<p align="left">
-  I specialize in developing <b>automation systems</b>, <b>multi-feature bots</b>,
-  and <b>custom messaging solutions</b> using <b>JavaScript and Python</b>.
-  My work focuses on message handling, user interaction, command-based systems,
-  and API integrations to ensure efficient and reliable bot performance.
-</p>
-
-<p align="left">
-  <li>I enjoy working on <b>backend logic</b>, <b>bot workflows</b>, and</li>
-  <b>scalable automation</b>, with an emphasis on clean code, stability,
-  <li>and real-world usability. Most of my projects are designed to support</li>
-  <li>moderation tools, utilities, auto-response systems, and custom automation
-  for WhatsApp and Telegram platforms.</li>
-</p>
+<ul>
+  <li><b>Automation Bot Developer</b> focused on building and maintaining WhatsApp & Telegram bots</li>
+  <li>Experienced in developing <b>automation systems</b> and <b>multi-feature bots</b></li>
+  <li>Building <b>custom messaging solutions</b> using <b>JavaScript and Python</b></li>
+  <li>Strong focus on <b>backend logic</b>, command-based systems, and API integrations</li>
+  <li>Projects mainly target <b>real-world use cases</b> such as moderation, utilities, and auto-response systems</li>
+  <li>Emphasis on <b>clean code</b>, <b>stability</b>, and <b>scalable automation</b></li>
+</ul>
 
 ---
 
