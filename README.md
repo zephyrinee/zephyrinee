@@ -8,7 +8,7 @@
 
 <p align="center">
   <!-- Wakatime Badge (ganti USERNAME wakatime) -->
-  <a href="https://wakatime.com/@YOUR_WAKATIME_USERNAME">
+  <a href="https://wakatime.com/@zephyrinee">
     <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" />
   </a>
 
