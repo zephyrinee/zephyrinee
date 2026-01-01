@@ -7,8 +7,6 @@
 </p>
 
 ---
-<p align="center">
-<b>Kontol:</b>
 
 <p align="left">
   <img height="36" src="https://skillicons.dev/icons?i=ts,go,nodejs,react,vue,postgres,mongodb,tailwind,git,linux" />
@@ -17,7 +15,8 @@
 ---
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,go,python,java,cs,c,cpp,nodejs,react,vue,nextjs,express,laravel,tailwind,bootstrap,mysql,postgres,mongodb,redis,git,github,linux,docker,nginx,vscode&perline=14" />
+  <b>Favorite Language:</b>
+  <img src="https://skillicons.dev/icons?i=js,ts,py&perline=14" />
 </p>
 
 
