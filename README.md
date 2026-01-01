@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/master/images.png" />
+  <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
 </p>
 
 <p align="center">
