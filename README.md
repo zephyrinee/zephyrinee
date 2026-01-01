@@ -8,7 +8,7 @@
 
 ---
 <p align="left">
-  <b>My Skills:</b>
+  <b>**My Skills:**</b>
     
 <p align="left">
   <img height="36" src="https://skillicons.dev/icons?i=js,ts,c,html,css" />
