@@ -6,16 +6,6 @@
   <b>Nama Kamu</b>, <b>20</b> years old and self-taught <b>Fullstack Developer</b> with <b>7</b> years learning experience & <b>2</b> year professional experience.
 </p>
 
-<p align="center">
-  <!-- Wakatime Badge (ganti USERNAME wakatime) -->
-  <a href="https://wakatime.com/@zephyrinee">
-    <img src="https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg" />
-  </a>
-
-  <!-- Profile views -->
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0a8f3c&style=flat" />
-</p>
-
 ---
 
 <p align="left">
