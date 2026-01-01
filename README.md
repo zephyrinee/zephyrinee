@@ -7,18 +7,14 @@
 </p>
 
 ---
-
 <p align="left">
-  <img height="36" src="https://skillicons.dev/icons?i=ts,go,nodejs,react,vue,postgres,mongodb,tailwind,git,linux" />
+  <b>My Skills</b>
+    
+<p align="left">
+  <img height="36" src="https://skillicons.dev/icons?i=js,ts,c,html,css" />
 </p>
 
 ---
-
-<p align="left">
-  <b>Favorite Language:</b>
-  <img src="https://skillicons.dev/icons?i=js,ts,py&perline=14" />
-</p>
-
 
 ---
 
