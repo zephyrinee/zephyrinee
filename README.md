@@ -7,6 +7,8 @@
 </p>
 
 ---
+<p align="center">
+<b>Kontol:</b>
 
 <p align="left">
   <img height="36" src="https://skillicons.dev/icons?i=ts,go,nodejs,react,vue,postgres,mongodb,tailwind,git,linux" />
