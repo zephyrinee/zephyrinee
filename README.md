@@ -1,9 +1,9 @@
 <p align="center">
   <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/main/images.png" />
 </p>
-
+n
 <p align="center">
-  <b>Nama Kamu</b>, <b>20</b> years old and self-taught <b>Fullstack Developer</b> with <b>7</b> years learning experience & <b>2</b> year professional experience.
+  <b>Nama Kamu, 20 years old and self-taught Fullstack Developer with 7 years learning experience & 2 year professional experience.</b>
 </p>
 
 ---
@@ -18,22 +18,6 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,php,go,python,java,cs,c,cpp,nodejs,react,vue,nextjs,express,laravel,tailwind,bootstrap,mysql,postgres,mongodb,redis,git,github,linux,docker,nginx,vscode&perline=14" />
 </p>
 
----
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&theme=default" />
-</p>
-
----
-
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&hide_border=true" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" />
-</p>
 
 ---
 
