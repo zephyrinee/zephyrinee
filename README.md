@@ -7,14 +7,18 @@
 </p>
 
 ---
+
 <p align="left">
-  <b>*My Skills:*</b>
+  <b>My Skill:</b>
     
 <p align="left">
   <img height="36" src="https://skillicons.dev/icons?i=js,ts,c,html,css" />
 </p>
 
 ---
+
+<p align="left">
+  <b>About Me:</b>
 
 <p align="left">
   <b>I am a Bot Developer with a strong focus on building, maintaining, and automating WhatsApp and Telegram bots.
