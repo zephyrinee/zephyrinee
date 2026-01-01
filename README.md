@@ -10,7 +10,7 @@
 ---
 
 <p align="left">
-  <b>🛠️ My Skills</b>
+  <b>MY SKILLS</b>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 ---
 
 <p align="left">
-  <b>👤 About Me</b>
+  <b>👤 ABOUT ME</b>
 </p>
 
 <p align="left">
