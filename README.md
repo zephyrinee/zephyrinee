@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&text=Zephyrine&fontAlign=50&fontAlignY=45&color=0:0a8f3c,100:00c853&fontColor=ffffff&desc=ジャド&descAlign=62&descAlignY=70&descSize=24" />
+  <img alt="title" src="https://raw.githubusercontent.com/zephyrinee/zephyrinee/refs/heads/master/images.png" />
 </p>
 
 <p align="center">
