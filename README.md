@@ -36,11 +36,11 @@
 </p>
 
 <p align="left">
-  I enjoy working on <b>backend logic</b>, <b>bot workflows</b>, and
+  <li>I enjoy working on <b>backend logic</b>, <b>bot workflows</b>, and</li>
   <b>scalable automation</b>, with an emphasis on clean code, stability,
-  and real-world usability. Most of my projects are designed to support
-  moderation tools, utilities, auto-response systems, and custom automation
-  for WhatsApp and Telegram platforms.
+  <li>and real-world usability. Most of my projects are designed to support</li>
+  <li>moderation tools, utilities, auto-response systems, and custom automation
+  for WhatsApp and Telegram platforms.</li>
 </p>
 
 ---
