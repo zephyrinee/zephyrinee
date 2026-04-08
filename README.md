@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <img height="36" src="https://skillicons.dev/icons?i=py,js,ts,c,cs,html,css,nodejs" />
+  <img height="36" src="https://skillicons.dev/icons?i=py,nodejs,js,ts,c,cs,html,css,script" />
 </p>
 
 ---
